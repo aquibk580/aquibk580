@@ -25,7 +25,7 @@
 
 ### ⚡ ElectroHub  
 An online electronics store with seller onboarding, product listings, cart, and admin panel. Built using MERN stack + Prisma + PostgreSQL.  
-🔗 [Coming Soon]
+🔗 [Live Preview](https://electrohubb.shop)
 
 ### 🖥️ AKTECH  
 My first React + Tailwind e-commerce site focused on PC components. Features include cart system, modals, quantity control, and dynamic routing.  
@@ -49,7 +49,7 @@ E-commerce website for electronics with PHP & MySQL. Built full cart system and 
 ---
 
 ## 📫 How to reach me:
-[![LinkedIn](https://img.shields.io/badge/-Aquib%20Khan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aquib-khan-42966b292)](https://www.linkedin.com/in/aquib-khan-42966b292)
+[![LinkedIn]](https://www.linkedin.com/in/aquib-khan-42966b292)
 
 ---
 
