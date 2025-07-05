@@ -27,9 +27,9 @@
 An online electronics store with seller onboarding, product listings, cart, and admin panel. Built using MERN stack + Prisma + PostgreSQL.  
 🔗 [Live Preview](https://electrohubb.shop)
 
-### 🖥️ AKTECH  
-My first React + Tailwind e-commerce site focused on PC components. Features include cart system, modals, quantity control, and dynamic routing.  
-🔗 [Live Preview](https://aktech.vercel.app)
+### 🖥️ SnapTools  
+Snap Tools is a modern all-in-one platform offering a suite of powerful tools and AI utilities designed to simplify daily tasks for developers, creators, and everyday users.  
+🔗 [Live Preview](https://snaptools.space)
 
 ### 🧳 Sunshine Travels  
 A responsive tour & travel website built using HTML, CSS, JavaScript, and Bootstrap. Designed for clean user experience and tour package listings.  
